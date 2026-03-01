@@ -14,7 +14,10 @@ https://drive.google.com/drive/folders/1sc_CpqOMTJNljfvRyLG-xdwB0yduje_O
 
 Installation requires full-network access, as sources from the local ISO image repository and casper filesystem are ignored in favor of latest available packages.
 
-Installation SHOULD be possible for these machines from Jen's kernel and device-trees, and possibly others with some effort by the installer.
+The kernel packages and device-trees used by this script are those from a specific ISO image that worked in my edge-case:
+`questing-desktop-arm64+x1e-20260119_extended_jg.iso`
+
+Installation SHOULD be possible for all target machines from Jen's kernel and device-trees, and possibly others with some effort by the installer.
 
 - **Microsoft Windows Dev Kit 2023** 
 - **Lenovo Thinkpad X13s** 
