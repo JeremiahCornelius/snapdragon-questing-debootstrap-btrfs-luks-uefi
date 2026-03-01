@@ -5,7 +5,7 @@
 
 A shell script that safely installs Ubuntu 25.10 from bootable ISO images made by Jens Glathe, to a suppoted target laptop, leveraging debootstrap, etc. 
 
-Windows duel-boot configurations are expresly preserved. Creation of free space for new partitions is an exercise for the user!
+Windows duel-boot configurations are expressly preserved. Creation of free space for new partitions is an exercise for the user!
 
 
 Original ISO images are disributed from this Google Drive share:
