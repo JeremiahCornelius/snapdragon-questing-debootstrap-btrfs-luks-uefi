@@ -115,7 +115,7 @@ This script emphasizes “deterministic-by-design” behavior with guardrails to
 
 ## Credits / Reference Inspiration
 
-Theese efforts are heavily dependent on the work done by Jens Glathe, and a number of other contrubutors for the Ububtu Concept project, bringing distribution support to commodity ARM laptops built on the Qualcom Snapdragon SOC.
+Theese efforts are heavily dependent on the work done by Jens Glathe, and a number of other contrubutors for the Ubuntu Concept project, bringing distribution support to commodity ARM laptops built on the Qualcom Snapdragon SOC.
 
 - **jglathe** *github repository*
 
